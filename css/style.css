@@ -1,0 +1,88 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+
+
+
+
+#sk
+{
+    
+  
+    border:none;
+    outline: none;
+    background-color: #F2F3F4;
+    
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.links
+{
+    
+    margin-left: 60px;
+}
+
+.links a
+{
+    color: #000000;
+}
+
+.links a:hover
+{
+    color: blueviolet;
+}
+
+.container h1
+{
+    font-weight: lighter;
+}
+
+.img-fluid
+{
+    
+    background-color: #cccccc;
+    border: none;
+    transition: .2s all ease-in-out;
+    border-radius: 50%;
+    box-shadow: 0px 2px 12px 0px rgba(0, 0, 0, .85);
+
+}
+
+#userImage
+{
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+.cat btn
+{
+    background-color: #601BF5;
+}
+
+._404
+{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+    
+.container a:hover
+{
+    background:linear-gradient(45deg,#5E14EB,#F40E8A,#F40E8A);
+}
+
+
+
+
+

@@ -1,0 +1,59 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #F4F4F4;
+}
+
+.main
+{
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+h1
+{
+    font-weight: lighter;
+    font-size: 85px;
+}
+
+
+#input1,#input2
+{
+    width: 400px;
+    height: 45px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    margin-top: 5px;
+   
+}
+
+.btn
+{
+    width: 400px;
+    height: 45px;
+    background-color: #601BF5;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 5px;
+    
+}
+.mysection
+{
+    background-color: beige;
+}
+    
+
+
+
+

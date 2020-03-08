@@ -1,0 +1,151 @@
+
+#hero
+{background-image: url('https://source.unsplash.com/1600x900/?models-portraits');
+	
+	background-attachment: fixed;
+	background-size: cover;
+}
+.box
+{
+		height: 300px;
+		transition: all .2s ease;
+		background-color: #1d1d1d;
+		
+}
+
+.box:hover
+{
+	transform: scale(1.1);
+}
+
+.first-head
+{
+	color: #ffffff;
+	
+	
+	font-weight: bolder;
+}
+
+.footer
+{
+	height: 50vh;
+}
+
+.dev
+{
+	border-radius: 50%;
+}
+
+ul
+{
+	list-style: none;
+}
+li
+{
+	display: inline;
+	margin-top: 20px;
+	padding: 10px auto;
+}
+.first
+{
+	background-image: url(https://source.unsplash.com/1600x900/?abstracts);
+	background-position: center;
+	background-size: cover;
+}
+.second
+{
+	background-image: url(https://source.unsplash.com/1600x900/?girls-grayscale);
+	background-position: center;
+	background-size: cover;
+}
+.third
+{
+	background-image: url(https://source.unsplash.com/1600x900/?tigers);
+	background-position: center;
+	background-size: cover;
+}
+.fourth
+{
+	background-image: url(https://source.unsplash.com/1600x900/?boys);
+	background-position: center;
+	background-size: cover;
+}
+.fifth
+{
+	background-image: url(https://source.unsplash.com/1600x900/?beach);
+	background-position: center;
+	background-size: cover;
+}
+
+.sixth
+{
+	background-image: url(https://source.unsplash.com/1600x900/?portraits);
+	background-position: center;
+	background-size: cover;
+}
+.seventh
+{
+	background-image: url(https://source.unsplash.com/1600x900/?programmers);
+	background-position: center;
+	background-size: cover;
+}
+.eighth
+{
+	background-image: url(https://source.unsplash.com/1600x900/?buildings);
+	background-position: center;
+	background-size: cover;
+}
+.ninth
+{
+	background-image: url(https://source.unsplash.com/1600x900/?kids);
+	background-position: center;
+	background-size: cover;
+}
+.tenth
+{
+	background-image: url(https://source.unsplash.com/1600x900/?mountains);
+	background-position: center;
+	background-size: cover;
+}
+.eleventh
+{
+	background-image: url(https://source.unsplash.com/1600x900/?flowers);
+	background-position: center;
+	background-size: cover;
+}
+.twelth
+{
+	background-image: url(https://source.unsplash.com/1600x900/?supercars);
+	background-position: center;
+	background-size: cover;
+}
+
+.subtitle
+{
+	color: #ffffff;
+}
+
+.search-tags {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tags
+{
+	list-style: none;
+}
+.tags li 
+{
+	display: inline;
+	margin:10px 10px;
+}
+.tags li a
+{
+	color: #999;
+}
+
+.drop
+{
+	color: #000000;
+}
+
